@@ -13,7 +13,9 @@ it should be noted that we were asked to use the second method without recursion
 ### Execution ✨
 
 All this was under a linux environment system so follow these commands:
- - locate your file on your's documents with cd respectively.
- - gcc namefile.c -o namefile -lm.
- - ./namefile (method = 1 | 0 respectively) n k base.
+```
+ $ locate your file on your's documents with cd respectively.
+ $ gcc namefile.c -o namefile -lm.
+ $ ./namefile (method = 1 | 0 respectively) n k base.
+```
     
