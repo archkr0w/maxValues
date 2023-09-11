@@ -2,9 +2,9 @@
 
 We were asked in one instance to develop a method in which we can extract the maximum values for n and k by calculating under $((n)/(k))$ respectively, with 2 methods being:
 
-(i) $((n)/(k)) = n!/(((n-k)!) x k!$
+- $((n)/(k)) = n!/(((n-k)!) * k!$
 
-(ii)$((n)/(k)) = ((n-1)/(k-1)) + ((n-1)/k))$
+- $((n)/(k)) = ((n-1)/(k-1)) + ((n-1)/k))$
 
 ### Updates from the explanation
 
