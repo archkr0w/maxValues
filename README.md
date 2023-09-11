@@ -6,11 +6,11 @@ We were asked in one instance to develop a method in which we can extract the ma
 
 - $((n)/(k)) = ((n-1)/(k-1)) + ((n-1)/(k))$
 
-### Updates from the explanation
+### Updates from the explanation 👻
 
 it should be noted that we were asked to use the second method without recursion as well as to use a relevant change of base at the time of execution.
 
-### Execution
+### Execution ✨
 
 All this was under a linux environment system so follow these commands:
  - locate your file on your's documents with cd respectively.
