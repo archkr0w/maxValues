@@ -1,3 +1,5 @@
+![image](https://github.com/archkr0w/maxValues/assets/126942746/c693e68e-fc35-4c33-824a-2c94c9888be8)
+
 ### Yo! 🤖
 
 We were asked in one instance to develop a method in which we can extract the maximum values for n and k by calculating under $((n)/(k))$ respectively, with 2 methods being:
